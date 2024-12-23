@@ -24,9 +24,9 @@ And after testing the function write actual result and status such as pass or fa
 
 <h3>Screenshort</h3>
 
-<img src="screenshot(67)" alt="Test Plan">
+<img src="screenshot(67).png" alt="Test Plan">
 <img src="screenshot mindmap.png" alt ="Mindmap">
-<img src="screenshot(68)" alt="Test Scenario and Test Case">
+<img src="screenshot(68).png" alt="Test Scenario and Test Case">
 <img src= "screenshot(69).png" alt="Bug Report">
 
 <h3>Tools</h3>
